@@ -371,9 +371,9 @@ export const cartPageStyles = {
   emptyCartContainer: "min-h-screen bg-gray-50 flex items-center justify-center p-6",
   emptyCartCard: "max-w-md text-center bg-white rounded-2xl shadow-lg p-8 border border-gray-200",
   emptyCartIcon: "mx-auto text-gray-400 mb-4",
-  emptyCartTitle: "text-2xl font-semibold mb-4 text-gray-800",
+  emptyCartTitle: "text-2xl font-semibold mb-4 text-gray-700",
   emptyCartText: "text-gray-600 mb-6",
-  emptyCartButton: "px-6 py-3 font-semibold text-black bg-gradient-to-br from-gray-200 to-gray-400 rounded-full transition-all inline-block",
+  emptyCartButton: "px-6 py-3 font-semibold text-gray-700 bg-gradient-to-br from-gray-200 to-gray-400 rounded-full transition-all inline-block",
   
   // Header section
   headerContainer: "flex flex-col sm:flex-row sm:items-center mb-6 sm:mb-8",
